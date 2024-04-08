@@ -57,7 +57,7 @@ Our team conducted a thorough examination of the existing infrastructure, pinpoi
       Cannon Goldsby
     </li>
     <li>
-      Fahad Manwar
+      Fahad Munawar
     </li>
     <li>
       Justin Walker
